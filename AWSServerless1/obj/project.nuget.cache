@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "35kBr8E/jTkq9nxuGsEVt3MFXNeB6bqU9Ssr9GuneymXKqUhoS/1jxmEPHolNgS9h/iYPxjW/3oBRIRI9Ep7sw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AWSServerless1\\AWSServerless1\\AWSServerless1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.0.0\\amazon.lambda.apigatewayevents.2.0.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.0.0\\amazon.lambda.applicationloadbalancerevents.2.0.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\5.1.0\\amazon.lambda.aspnetcoreserver.5.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.0.0\\amazon.lambda.logging.aspnetcore.3.0.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Michael Stallings\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
